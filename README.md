@@ -17,7 +17,7 @@
 
 A 3-tier architecture separates its tiers from each other based on the complexity of the users and how they use the data present in the database. <br/>
 It is the most widely used architecture to design a DBMS. It is composed of Database Tier (data access), Application Tier (business logic) and User Tier (user interface).
-The entity diagram of the database is shown below: <br/>
+The entity diagram of the database is shown below: <br/> <br/>
 ![samples](https://github.com/shakibyzn/3-tier-store-app/blob/main/images/entity-diagram.png)
 
 #### Techniques
