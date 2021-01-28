@@ -34,7 +34,7 @@ The entity diagram of the database is shown below: <br/> <br/>
 
 MIT License
 
-Copyright (c) [2020] [Shakib Yazdani]
+Copyright (c) [2021] [Shakib Yazdani]
 
 
 [Back To The Top](#3-tier-Architecture)
